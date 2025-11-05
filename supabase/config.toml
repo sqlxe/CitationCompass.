@@ -1,0 +1,4 @@
+project_id = "todcxcmoqbbrhiyzgnbm"
+
+[functions.search-citations]
+verify_jwt = false
